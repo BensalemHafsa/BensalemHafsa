@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BensalemHafsa State Engineer in Management and Engineering of Industrial Maintenance
-- 👀 I’m interested in Data Science, AI & ML, Data, Digital Twin
+- 👀 I’m interested about Data Science, AI & ML, Data, Digital Twin
 - 📫 How to reach me : bensalemhafsa1999@gmail.com
 - 😄 Pronouns: Just Hafsa
 - ⚡ Fun fact: The truth is not always as we see it
