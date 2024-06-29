@@ -2,7 +2,7 @@
 - 👀 I’m interested about Data Science, AI & ML, Data, Digital Twin
 - 📫 How to reach me : bensalemhafsa1999@gmail.com
 - 😄 Pronouns : Just Hafsa
-- ⚡ Fun fact : The truth is not always as we see it
+- ⚡ Fun fact : The truth is not always as what we see it
 
 <!---
 BensalemHafsa/BensalemHafsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
